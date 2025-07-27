@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/Radwisatso/gemini-ai/issues"
   },
-  "homepage": "https://github.com/Radwisatso/gemini-ai#readme"
+  "homepage": "https://github.com/Radwisatso/gemini-ai#readme",
+  "dependencies": {
+    "@google/genai": "^1.11.0",
+    "dotenv": "^17.2.1"
+  }
 }
